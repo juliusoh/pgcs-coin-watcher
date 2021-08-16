@@ -1,0 +1,1 @@
+export const linkConverter = (str) => str.toLowerCase().trim().replaceAll(" ", "-")
